@@ -1,4 +1,4 @@
 # Adi-Python
-AI and Python Based Projects.
+Python | Cloud | Devops | AI learner.
 
 Author - Aditya Desai
